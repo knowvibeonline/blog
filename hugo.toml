@@ -1,5 +1,5 @@
-baseURL = 'http://localhost:1313/'
+# baseURL = "http://localhost:1313/"  # Local testing
+baseURL = "https://knowvibe.online/"  # Live site
 languageCode = 'en-us'
 title = 'know vibe'
-theme = "PaperMod"  # Ya jo bhi sahi theme use kar rahe ho
 
