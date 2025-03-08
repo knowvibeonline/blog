@@ -1,3 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'know vibe'
+theme = "PaperMod"  # Ya jo bhi sahi theme use kar rahe ho
+
